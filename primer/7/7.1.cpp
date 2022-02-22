@@ -23,3 +23,4 @@ int main(int argc, char *argv[]) {
 }
 
 double harmonicAverage(int x, int y) { return 2.0 * x * y / (x + y); }
+ 
