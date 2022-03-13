@@ -67,7 +67,7 @@ int main(int argc, char const *argv[])
     list.add(2);
     list.add(3);
 
-    auto f = [](Item &item) {cout<<item<endl;};
+    auto f = [](Item &item) {cout<<item<<endl;};
     list.visit(f);
     return 0;
 }
