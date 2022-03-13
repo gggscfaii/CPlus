@@ -15,7 +15,9 @@
             "environment": [],
             "externalConsole": false,
             "MIMode": "lldb",
-            "preLaunchTask": "C/C++: g++ 生成活动文件"
+            "preLaunchTask": "C/C++: g++ 生成活动文件",
+            "cStandard": "c11",
+            "cppStandard": "c++17",    
         }
     ]
 }
