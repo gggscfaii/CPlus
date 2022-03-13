@@ -67,13 +67,7 @@ int main(int argc, char const *argv[])
     list.add(2);
     list.add(3);
 
-    // auto f = [](Item &item) {};
-    // list.visit(f);
-
-    auto Mul = [](int x, int y, int z) { return x * y * z; };
-
-    int x = 2, y = 4;
-    int result3 = Operation(x, y, Mul);
-    cout << result3 << endl;
+    auto f = [](Item &item) {cout<<item<endl;};
+    list.visit(f);
     return 0;
 }
