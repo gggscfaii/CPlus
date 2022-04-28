@@ -50,14 +50,6 @@ public:
     }
 };
 
-int Operation(int x, int y, int (*function)(int, int, int))
-{
-    int z = x + y;
-    int result = function(x, y, z);
-    result *= 10;
-    return result;
-}
-
 int main(int argc, char const *argv[])
 {
 

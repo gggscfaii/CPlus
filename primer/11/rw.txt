@@ -1,0 +1,19 @@
+1:(m,a) = (2,25)
+2:(m,a) = (2,195)
+3:(m,a) = (2,275)
+4:(m,a) = (2,33)
+5:(m,a) = (2,127)
+6:(m,a) = (2,66)
+After 6 steps, the subject  has the fowllowing location: 
+(x,y) = (1.34226,2.84885)
+ or
+(m,a) = (3.14922,64.7721)
+Average outward distaince per step = 0.52487
+1:(m,a) = (2,238)
+2:(m,a) = (2,191)
+3:(m,a) = (2,237)
+After 3 steps, the subject  has the fowllowing location: 
+(x,y) = (-4.11237,-3.75506)
+ or
+(m,a) = (5.56885,-137.6)
+Average outward distaince per step = 1.85628
